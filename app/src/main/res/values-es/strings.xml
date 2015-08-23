@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">GeoTag</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="helpScreen">Help Screen</string>
+    <string name="gamePlay">Game Play</string>
+    <string name="userProfile">User Profile</string>
+    <string name="mainMenu">Main Menu</string>
+    <string name="splashScreen">Splash Screen</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="closeSplash">Close Splash Screen</string>
+    <string name="title_activity_main_menu">Main Menu</string>
+    <string name="closeMainMenu">Close Main Menu</string>
+    <string name="title_activity_user_profile">User Profile</string>
+    <string name="title_activity_game_play">Game Play</string>
+    <string name="closeUserProfile">Close User Profile</string>
+    <string name="title_activity_help_menu">Help Screen</string>
+    <string name="helpMenuCloseButtonText">Close Help Screen</string>
+    <string name="loginButton">Log In Screen</string>
+    <string name="title_activity_login">Login</string>
+    <string name="userNameTextForTextField">Username</string>
+    <string name="passwordTextForTextField">Password</string>
+    <string name="title_activity_welcome_user">Welcome User</string>
+    <string name="emptyString" />
+    <string name="welcomeUserText">Welcome,</string>
+</resources>
