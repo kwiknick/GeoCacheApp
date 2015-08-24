@@ -24,4 +24,10 @@
     <string name="title_activity_welcome_user">Welcome User</string>
     <string name="emptyString" />
     <string name="welcomeUserText">Welcome,</string>
+    <string name="descriptionInstructionsText">Please Enter A Description</string>
+    <string name="streetInstructionsText">Please Enter Street Address</string>
+    <string name="cityInstructionsText">Please Enter The City</string>
+    <string name="stateInstructionsText">Please Enter The State</string>
+    <string name="zipInstructionsText">Please Enter Zip Code</string>
+    <string name="submitButtonText">Submit</string>
 </resources>
